@@ -63,6 +63,7 @@ export const RESUME_DATA = {
     {
       company: "Armour Labs",
       title: "Founder, CEO",
+      badges: [],
       logo: ParabolLogo,
       start: "2022",
       end: "2023",
