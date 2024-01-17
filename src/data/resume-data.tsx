@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Technologist who enjoys finance",
   summary:
     "Aussie, Aussie, Aussie!",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/johnwanggg",
   personalWebsiteUrl: "https://john.wang",
   contact: {
     email: "hi@john.wang",
@@ -54,22 +54,20 @@ export const RESUME_DATA = {
   education: [
     {
       school: "University of Pennsylvania",
-      degree: "Bachelor's of Science in Economics",
+      degree: "Bachelor of Science in Finance and Computer Science",
       start: "2020",
       end: "2025",
     },
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      company: "Armour Labs",
+      title: "Founder, CEO",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2022",
+      end: "2023",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Developed P2P lending software.",
     },
     {
       company: "Clevertech",
